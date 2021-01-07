@@ -1,2 +1,13 @@
 * FinalUHC
   A very simple finaluhc datapack.
+
+** Installation
+   You need a Minecraft 1.16.x game client and a Minecraft Server (Server is optional)
+
+   And put this repository to your ~$HOME/.minecraft/saves/world/datapacks/~
+
+   Join the server with your friend (or a local area networld game use ~Open to LAN~ button)
+
+   Get the OP permission
+
+   Last, use ~/function finaluhc:start~ to start a match, Start fighting with your friends!
