@@ -5,7 +5,7 @@ worldborder set 999999
 kill @e[type=!player]
 kill @e[type=item]
 
-scoreboard objectives add health health {"text": "Health"}
+scoreboard objectives add health health {"text": "❤️", "color": "red"}
 scoreboard objectives setdisplay belowName health
 
 scoreboard objectives add death deathCount
